@@ -1,0 +1,1 @@
+{"batch_size": 64, "gamma": 0.99, "buffer_size": 100000.0, "seed": 42, "tau": 0.002, "training_interval": 4, "learning_rate": 0.0002, "epsilon_decay": 0.99, "epsilon_min": 0.01, "n_trajectories": 600, "saving_interval": 20}

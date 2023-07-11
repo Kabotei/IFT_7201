@@ -1,0 +1,6 @@
+graph-theory==2021.8.22.41289
+matplotlib==3.5.0
+numpy==1.21.4
+poutyne==1.7
+scipy==1.7.3
+tqdm==4.62.3

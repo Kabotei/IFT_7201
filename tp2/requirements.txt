@@ -1,0 +1,8 @@
+Box2D==2.3.10
+box2d-py==2.3.8
+gym==0.21.0
+matplotlib==3.4.3
+numpy==1.21.4
+Poutyne==1.7
+pyglet==1.5.21
+tqdm==4.62.3
